@@ -1,0 +1,18 @@
+body{
+    background-image: url(./assests/play1page.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.frootshoot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
+.playbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+
+}

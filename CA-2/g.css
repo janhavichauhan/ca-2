@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./assests/gamepage.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+}
+h1{
+    font-family: 'Rubik Beastly';
+    font-size: 120px;
+    color: rgba(255, 192, 203, 0.925);
+}
+
+.froot-shoot{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 350px;
+}
